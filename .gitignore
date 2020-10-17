@@ -1,9 +1,0 @@
-# Dossier de Logs
-Logs/
-
-# Fichiers htaccess, htpasswd et gitignore
-params_intranet/
-
-# Infos Base de données
-gestion_base/
-
